@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WMD001
-- 我学习Java，期望能成为更高级的技术工程师
+- 一个普通的Java开发，中级代码强迫症患者。
 
 <!---
 WMD001/WMD001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
