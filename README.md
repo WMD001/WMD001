@@ -2,9 +2,9 @@
 - 一个普通的Java开发，中级代码强迫症患者。
 
 ## 我的个人小站
-https://fool-country.online
+https://wmd001.top
 
-## 博客封面制作网站
+## 博客封面制作工具
 https://cover-view.fool-country.online
 
 <!---
