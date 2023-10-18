@@ -1,6 +1,19 @@
 - 👋 Hi, I’m @WMD001
 - 一个普通的Java开发，中级代码强迫症患者。
 
+**我的技术栈**
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,html,css,javascript,markdown&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,spring,regex&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=maven,gradle,jenkins,nginx,git&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
+
+
 ## 我的个人小站
 https://wmd001.top
 
