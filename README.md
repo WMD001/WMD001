@@ -12,6 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=maven,gradle,jenkins,nginx,git&theme=light)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 
 
 ## 我的个人小站
