@@ -25,3 +25,6 @@ https://cover-view.fool-country.online
 WMD001/WMD001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 2023年度报告
+![WMD001](https://github.com/WMD001/WMD001/assets/35905864/d8c8b388-4fa2-4f1b-af2b-567b49804632)
